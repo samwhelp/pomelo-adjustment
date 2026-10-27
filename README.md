@@ -2,7 +2,7 @@
 
 # Home
 
-> Pomelo Desktop Adjustment
+> [Pomelo Desktop](https://pomelo.fedora.tw/) Adjustment
 
 | Link | GitHub |
 | ---- | ------ |
