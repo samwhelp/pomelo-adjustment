@@ -15,6 +15,21 @@ has_children: true
 | Link |
 | ---- |
 | [Pomelo Desktop](https://pomelo.fedora.tw/) |
+| [Download](https://pomelo.fedora.tw/download) |
+| Releases  / [API](https://pomelo.fedora.tw/api/releases/latest) |
+| [Manual](https://pomelo.fedora.tw/manual) |
+
+
+
+
+## Develop Docs
+
+| Docs |
+| ---- |
+| [input-method](https://pomelo.fedora.tw/docs/input-method) |
+| [login-manager](https://pomelo.fedora.tw/docs/login-manager) |
+| [keyring](https://pomelo.fedora.tw/docs/keyring) |
+| [assistant](https://pomelo.fedora.tw/docs/assistant) |
 
 
 
