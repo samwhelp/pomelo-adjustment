@@ -1,0 +1,1 @@
+https://pomelo.fedora.tw/download/pomelo-0.34-ubuntu26.04-amd64.tar.gz
