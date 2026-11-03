@@ -47,6 +47,7 @@ static const Key keys[] = {
 	{ Mod1Mask,                         XK_F2,                        spotlight,          {0} },
 	{ Mod1Mask,                         XK_F4,                        killclient,         {0} },
 	{ Mod4Mask,                         XK_q,                         killclient,         {0} },
+	{ Mod4Mask,                         XK_grave,                     spawn,              {.s = "pomelo-launcher"} },
 	{ Mod4Mask,                         XK_Tab,                       overview,           {0} },
 	{ Mod1Mask|ShiftMask,               XK_d,                         spawn,              {.s = "rofi -show drun -show-icons"} },
 	{ Mod1Mask|ShiftMask,               XK_r,                         spawn,              {.s = "rofi -show run"} },
